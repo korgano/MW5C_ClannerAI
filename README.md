@@ -22,7 +22,7 @@ The Wiki section will contain various bits of information for modder reference.
 - MechWarrior 5: Clans Mod Editor
 
 ## How to Install
-- Download `ClannerAI.zip`
+- Download `ClannerAI.zip` from the Assets folder.
 - Install the MW5C mod editor.
 - Navigate to `[DRIVE]:\EGS\MW5C[]Editor\Editor\MW5Clans\Mods`
 - Paste and unzip `ClannerAI`
